@@ -1,0 +1,10 @@
+
+> birthday-dashboard-app@0.0.1 dev
+> vite --host
+
+
+  VITE v7.3.1  ready in 192 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.16.48.57:5173/
+  ➜  Network: http://192.168.2.1:5173/
